@@ -1,7 +1,7 @@
 <script>
 	export default {
 		onLaunch: function() { 
-			console.log('App Launch right now mainmain')
+			console.log('App Launch right now commit-test')
 		},
 		onShow: function() {
  
